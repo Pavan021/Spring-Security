@@ -19,7 +19,7 @@ import java.util.Date;
 
 
 @Component
-public class JwtUtils {
+public class  JwtUtils {
 
     private static final Logger logger = LoggerFactory.getLogger(JwtUtils.class);
 
